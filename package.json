@@ -1,0 +1,31 @@
+{
+  "title": "PersistentDrawerLeft Material Demo",
+  "name": "task-inbox-forked",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.7/docs/src/pages/components/drawers/PersistentDrawerLeft.js",
+  "dependencies": {
+    "@date-io/date-fns": "2.11.0",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/lab": "5.0.0-alpha.63",
+    "@mui/material": "latest",
+    "date-fns": "2.28.0",
+    "echarts": "5.2.2",
+    "echarts-for-react": "3.0.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-flippy": "1.1.0",
+    "react-router-dom": "5.2.0"
+  },
+  "keywords": [],
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
